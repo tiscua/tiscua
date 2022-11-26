@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi i'am tiscua
+
+<img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
 
 <!--
 **tiscua/tiscua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
